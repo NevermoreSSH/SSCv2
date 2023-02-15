@@ -82,7 +82,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • IPtables                : [ON]
 
-• Auto-Reboot             : [ON] (new updated)
+• Auto-Reboot             : [ON] (NEW)
 
 • IPv6                    : [OFF]
 
@@ -90,4 +90,4 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • Auto Delete Expired Account
 
-• DNS Changer & DNS Checker (new updated)
+• DNS Changer & DNS Checker (NEW)
