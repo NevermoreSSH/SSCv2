@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 
-Autoscript SSH Websocket Multiport FREE!!!
+Autoscript SSH Websocket Multiport v2
 
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -82,10 +82,12 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • IPtables                : [ON]
 
-• Auto-Reboot             : [ON]
+• Auto-Reboot             : [ON] (new updated)
 
 • IPv6                    : [OFF]
 
 • Autoreboot On 05.00 GMT +7
 
 • Auto Delete Expired Account
+
+• DNS Changer & DNS Checker (new updated)
